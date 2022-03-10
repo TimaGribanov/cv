@@ -78,12 +78,14 @@ main a:hover {
 
 #work span,
 #school span,
-#certs span {
+#certs span,
+#projects span {
   font-family: LatoItalic, sans-serif;
 }
 
 #work p,
-#school p {
+#school p,
+#projects p {
   padding-left: 10px;
 }
 
