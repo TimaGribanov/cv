@@ -102,6 +102,10 @@ main a:hover {
   background: radial-gradient(circle at center, var(--header-colour) 0% 25%, transparent 25% 100%);
 }
 
+.dot.intermediate {
+  background: radial-gradient(circle at center, var(--header-colour) 0% 50%, transparent 50% 100%);
+}
+
 .lang.dot {
   position: relative;
   left: 50%;
