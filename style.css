@@ -99,6 +99,10 @@ main a:hover {
 }
 
 .dot.beginner {
+  background: radial-gradient(circle at center, var(--header-colour) 0% 10%, transparent 10% 100%);
+}
+
+.dot.elementary {
   background: radial-gradient(circle at center, var(--header-colour) 0% 25%, transparent 25% 100%);
 }
 
